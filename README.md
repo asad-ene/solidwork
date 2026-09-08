@@ -17,22 +17,18 @@ Full assembly model of a V6 engine, including [block, crankshaft, pistons, conne
 - **Focus:** high part-count assembly modeling, mate relationships, motion study of reciprocating/rotating components
 - **Files:** `/v6-engine/` — SLDPRT/SLDASM, STEP, exploded view PDF, render
 
-### 2. Nut and Bolt Assembly
-Standard threaded fastener assembly modeled to [size/standard — e.g., M10, ISO metric].
-- **Focus:** thread modeling, fit and tolerance between mating threaded parts
-- **Files:** `/nut-bolt-assembly/` — SLDPRT/SLDASM, STEP, drawing PDF
 
-### 3. CPU Casing (Sheet Metal, Forming Tools)
+### 2. CPU Casing (Sheet Metal, Forming Tools)
 Sheet metal enclosure design using SolidWorks forming tools to create [vents, louvers, embosses — edit to match].
 - **Focus:** forming tool library/creation, sheet metal flat pattern, thickness and bend allowance calculations
 - **Files:** `/cpu-casing/` — SLDPRT, STEP, flat pattern DXF, drawing PDF with bend table
 
-### 4. Sheet Metal Bracket/Enclosure (Flange & Bend Flange)
+### 3. Sheet Metal Bracket/Enclosure (Flange & Bend Flange)
 [Name the part] designed using flange and edge-flange sheet metal features.
 - **Focus:** flange, bend flange, hem, and relief features; GD&T on formed sheet metal parts
 - **Files:** `/sheet-metal-bracket/` — SLDPRT, STEP, flat pattern, drawing PDF
 
-### 5. Cam and Four-Bar Mechanism
+### 4. Cam and Four-Bar Mechanism
 Cam-follower and four-bar linkage mechanism with motion simulation.
 - **Focus:** cam profile design, kinematic analysis, motion study/animation of linkage
 - **Files:** `/cam-four-bar-mechanism/` — SLDPRT/SLDASM, STEP, motion study video/GIF, drawing PDF
@@ -52,4 +48,4 @@ Cam-follower and four-bar linkage mechanism with motion simulation.
 Native SolidWorks files are included for completeness but are binary and not meaningfully version-controlled by Git. STEP files and PDF drawings are the recommended way to review each design without SolidWorks installed.
 
 ---
-**Contact:** [Your name / email / LinkedIn]
+**Contact:** Muhammad Asad Raheem/https://www.linkedin.com/in/muhammad-asad-raheem-b83707366/
